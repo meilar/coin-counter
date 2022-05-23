@@ -1,9 +1,9 @@
-<h1 align="center">{CHANGE ME}</h1>
+
 
 Matthew Eilar | [LinkedIn](https://www.linkedin.com/in/eilar-503/) | [email](mailto:<meilar@gmail.com>) | [website](https://www.mattheweilar.com)
 
 ## About this project
-{SCREENSHOT}
+Uses recursion to count the number of coins in a given amount of money. 
 
 ## Get Started
 
